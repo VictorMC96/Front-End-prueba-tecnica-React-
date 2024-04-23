@@ -29,7 +29,7 @@ Instrucciones:
 * La prueba se evaluará en función de la calidad del código, la organización, la atención al detalle y la precisión en la implementación de los requisitos.
 Requisitos:
 * 		Configuración del Proyecto:
-    * Crea un nuevo proyecto Angular utilizando la versión más reciente de React.
+    * Crea un nuevo proyecto en React utilizando la versión más reciente.
     * Configura el proyecto para que pueda realizar solicitudes a una API REST en formato JSON.
 
 * 		Consumo de API:
@@ -69,9 +69,8 @@ No te preocupes si no puedes completar todos los requisitos en el tiempo asignad
 
 ## 1. Angular y React:
 
-¿Qué es Angular y cuál es su propósito principal en el desarrollo web?
-Explica la diferencia entre AngularJS y Angular.
-¿Qué es un componente en Angular y cómo se crea uno?
+¿Qué es React y cuál es su propósito principal en el desarrollo web?
+¿Qué es un componente en React y cómo se crea uno?
 ¿Cuál es la diferencia entre ngOnInit() y constructor() en Angular?
 
 ¿Qué es REACT y cuál es su propósito principal en el desarrollo web?
