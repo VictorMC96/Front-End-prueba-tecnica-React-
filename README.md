@@ -20,7 +20,7 @@ Cumplir con los puntos que solicitan, hacer enfasis en el detalle de las interfa
 Clonar el proyecto y subirlo como una rama adicional
 
 
-## Prueba Técnica para Desarrollador Front-End Angular
+## Prueba Técnica para Desarrollador Front-End React
 
 ## Parte 1 tecnica:
 Instrucciones:
@@ -34,7 +34,7 @@ Requisitos:
 
 * 		Consumo de API:
     * Utiliza la API pública de JSONPlaceholder (https://jsonplaceholder.typicode.com/) para obtener datos de usuarios (https://jsonplaceholder.typicode.com/users).
-    * Crea un servicio en Angular para realizar la solicitud HTTP para obtener la lista de usuarios.
+    * Crea un servicio en React para realizar la solicitud HTTP para obtener la lista de usuarios.
     * Muestra la lista de usuarios obtenida en una página de tu aplicación.
 
 * 		Detalle de Usuario:
@@ -50,7 +50,7 @@ Requisitos:
 
 Extras (Opcional, pero altamente recomendado):
 * Agrega funcionalidad de paginación para mostrar solo un número limitado de usuarios por página.
-* Utiliza Angular Material para mejorar el diseño y la experiencia del usuario.
+* Utiliza React Material para mejorar el diseño y la experiencia del usuario.
 * Implementa pruebas unitarias para los componentes y servicios principales de tu aplicación.
 
 Entrega:
@@ -117,6 +117,7 @@ Define el patrón de diseño Modelo-Vista-Controlador (MVC) y explica sus compon
 ¿Qué son las pruebas unitarias y por qué son importantes en el desarrollo de software?
 Explica la diferencia entre las pruebas unitarias y las pruebas de integración.
 Describe cómo se configura y ejecuta un conjunto de pruebas Jasmine utilizando Karma en un proyecto Angular.
+¿Qué tan comodo te sentirias trabajando con Angular?
 
 Nota: No te preocupes si no puedes responder a todas las preguntas con precisión. Se valorará el conocimiento general y la comprensión de los conceptos clave. ¡Buena suerte!
 
